@@ -11,6 +11,9 @@ https://aigo.org.tw/zh-tw/competitions/details/379
 2. 每次排程 **五** 週
 3. 加班上限每週 **九** 小時
 
+### demo 影片
+[![CKCx福佑電機xAIGO](https://user-images.githubusercontent.com/36625741/136771412-93b78223-72a8-4f86-b55d-bfb130485183.jpg)](https://youtu.be/PDrgGvqH_4c)
+
 ### 智慧規劃排程系統主要包含
 一項資料前置作業
 * 0.setupTime：將廠商提供換線時間表進行轉換以供自動化比對使用
